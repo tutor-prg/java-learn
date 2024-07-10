@@ -5,7 +5,7 @@ public class Main {
         int q = add(3, 7);
         System.out.println("q = " + q);
 
-        int p = sub(3, 7);
+        int p = sub(7, 3);
         System.out.println("p = " + p);
     }
 
